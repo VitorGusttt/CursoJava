@@ -19,7 +19,7 @@ Este curso aborda os seguintes tópicos:
 - ✅ Entrada e Saída de Dados (Scanner, Arquivos)
 - ✅ Projeto Final 
 - 🚧 Entre outros
-- 🚧 AINDA NÃO FINALIZEI O CURSO
+- 🚧 AINDA NÃO FINALIZEI O CURSO (25% feito)
 
 ---
 
