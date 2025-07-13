@@ -6,7 +6,7 @@ public class problemaNegativos {
 		/*Faça um programa que leia um número inteiro positivo N (máximo = 10) e depois N números inteiros 
 		e armazene-os em um vetor. Em seguida, mostrar na tela todos os números negativos lidos*/
 		Scanner sc = new Scanner(System.in);
-		System.out.printf("Quantos numeros vai digitar nego: ");
+		System.out.print("Quantos numeros vai digitar nego: ");
 		int n = sc.nextInt();
 		int[] arrayInteiros = new int[n];
 		
