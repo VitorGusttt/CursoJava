@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class Main {
+class problemaMaisVelho {
     public static void main(String[] args) {
         //leia x nomes e idades e diga quem é o mais velho
 
